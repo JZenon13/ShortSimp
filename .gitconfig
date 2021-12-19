@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Jesse Zenon
+	email = jz.the.dev@gmail.com
+[init]
+	defaultBranch = main

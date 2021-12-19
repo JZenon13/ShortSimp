@@ -1,0 +1,19 @@
+[2021-12-14 06:45:10.932] [exthost] [info] Extension host with pid 809 started
+[2021-12-14 06:45:10.946] [exthost] [info] Lock '/home/yessiejamez/.vscode-server/data/User/workspaceStorage/b0e1d8f06c934dae78d70fff54efb82e/vscode.lock': Lock acquired.
+[2021-12-14 06:45:10.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 06:45:10.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 06:45:11.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 06:45:11.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 06:45:11.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-12-14 06:45:11.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-14 06:45:11.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-14 06:45:11.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-14 06:45:11.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-14 06:45:11.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-14 06:45:11.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-14 06:45:11.511] [exthost] [info] Eager extensions activated
+[2021-12-14 06:45:58.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-14 06:45:58.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-14 08:03:04.114] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-14 08:03:04.114] [exthost] [info] Lock '/home/yessiejamez/.vscode-server/data/User/workspaceStorage/b0e1d8f06c934dae78d70fff54efb82e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-14 08:03:04.149] [exthost] [info] Extension host with pid 809 exiting with code 0

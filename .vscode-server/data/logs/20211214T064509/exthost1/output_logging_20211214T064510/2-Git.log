@@ -1,0 +1,80 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/yessiejamez/Development/code/prework/phase-0-completing-assignments
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/yessiejamez/Development/code/prework/phase-0-completing-assignments/README.md
+> git cat-file -s ca8ac54c8d39272489809cbda7622ee59241cfd1
+> git show --textconv :package.json
+> git ls-files --stage -- /home/yessiejamez/Development/code/prework/phase-0-completing-assignments/package.json
+> git cat-file -s 22fb8f9c4a8454ab4b5eecaace4b1909a09375e8
+> git check-ignore -v -z --stdin
+> git show --textconv :test/index-test.js
+> git ls-files --stage -- /home/yessiejamez/Development/code/prework/phase-0-completing-assignments/test/index-test.js
+> git cat-file -s 218657a59c29a85f67784d1b7c157dd069b21608
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/yessiejamez/Development/code/prework/phase-0-completing-assignments/test/index-test.js
+> git cat-file -s 218657a59c29a85f67784d1b7c157dd069b21608
+> git show --textconv :test/index-test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/yessiejamez/Development/code/prework/phase-0-completing-assignments/test/index-test.js
+> git cat-file -s 218657a59c29a85f67784d1b7c157dd069b21608
+> git show --textconv :test/index-test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/yessiejamez/Development/code/prework/phase-0-completing-assignments/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
